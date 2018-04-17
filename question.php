@@ -15,7 +15,7 @@
         <div class="mx-md-auto col-lg-8 col-md-11 col-12 px-0">
 
               <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
-                <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> หน้า</label>
+                <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> คำถามที่พบบ่อย</label>
               </div>
 
 <!--               <div class="page-title ml-lg-0 ml-md-0 ml-3 mb-3 align-sm-center align-md-center">
