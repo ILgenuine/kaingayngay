@@ -83,7 +83,7 @@
 
       <div class="col-lg-4 col-10 px-0 mx-auto align-center">
           <div>
-            <img src="assets/images/ads/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
+            <img src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
           </div>
       </div>
 
