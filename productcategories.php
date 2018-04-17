@@ -13,233 +13,317 @@
       <div class="row row-content mt-4 mb-5 mx-0">
 
 
-        <div class="col-lg-3 col-10 px-0 mx-auto ">
-
+        <div class="col-12 px-0 mx-auto ">
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
             <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> หมวดสินค้า</label>
           </div>
-
-
-          <div class="mb-3 ml-lg-0 ml-md-0 ml-3 editprofile-btn">
+          <div class="mb-3 ml-lg-0 ml-md-0 ml-3 text-center">
             <h3 class="text-pink mb-0">
               หมวดสินค้า
             </h3>
           </div>
+        </div>
 
-          <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
-                <label class="form-check-label text-dark" style="font-weight: 600;">
-                     เลือกช่วงราคา
-                </label>
+        <div class="container">
+
+          <div class="search-categories">
+              <div class="input-group mb-2">
+                <input type="text" class="form-control underline transpalent-bg" placeholder="ค้นหาหมวดสินค้า" aria-label="">
+                <div class="input-group-prepend">
+                  <button class="btn btn-outline-secondary underline" type="button"><i class="fa fa-search fa-lg"></i></button>
+                </div>
+              </div>
           </div>
 
 
-          <div class="mb-lg-3 mb-md-3 mb-3 ml-lg-0 ml-md-0 ml-md-0">
-            <div class="row ml-lg-0 ml-md-0 ml-3">
-                <div class="col-5 pl-0">
-                  <input type="text" id="" class="form-control mx-lg-0 mx-md-0 mx-sm-3" placeholder="50,000">
+          <div class="d-flex flex-wrap my-5">
+
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                  <div class="icon">
+                    <!-- Original 170x65 -->
+                      <img src="assets/images/icon/1.jpg" srcset="assets/images/icon/1.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name pb-0">
+                      <label class="text-pink pointer">
+                          วีไอพีโค้ด
+                      </label>
+                  </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 1.5พัน ชิ้น
+                </label>
+              </div>
+
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/2.jpg" srcset="assets/images/icon/2.jpg" alt="" title="" width="100%" height="auto">
                 </div>
-                <div class="col-1 pl-lg-0 pl-md-2 pl-0 ">
-                    <label class="mb-0 mt-2">ถึง</label>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รถยนต์ทั่วไป
+                    </label>
                 </div>
-                <div class="col-5 pl-0">
-                  <input type="text" id="" class="form-control mx-lg-0  mx-md-0 mx-sm-3" placeholder="500,000">
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 125 ชิ้น
+                </label>
+              </div>
+
+
+              <!-- New -->
+              <div class="cat-tag">
+                      <label class="text-white">NEW</label>
+              </div>
+
+
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/3.jpg" srcset="assets/images/icon/3.jpg" alt="" title="" width="100%" height="auto">
+                </div>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รถแต่ง รถคลาสสิค
+                    </label>
+                </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                  มีสินค้าในหมวด 6.1หมื่น ชิ้น
+                </label>
+              </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/4.jpg" srcset="assets/images/icon/4.jpg" alt="" title="" width="100%" height="auto">
+                </div>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รสตู้ รถโดยสาร รถไถนา
+                    </label>
+                </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 125 ชิ้น
+                </label>
+              </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/5.jpg" srcset="assets/images/icon/5.jpg" alt="" title="" width="100%" height="auto">
+                </div>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รถใหญ่ 4 ล้อ, 6 ล้อ, 10 ล้อ
+                    </label>
+                </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 125 ชิ้น
+                </label>
+              </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/15.jpg" srcset="assets/images/icon/15.jpg" alt="" title="" width="100%" height="auto">
+                </div>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รถจักรยานยนต์
+                    </label>
+                </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 125 ชิ้น
+                </label>
+              </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+              <a href="#">
+                <div class="icon">
+                  <img src="assets/images/icon/6.jpg" srcset="assets/images/icon/6.jpg" alt="" title="" width="100%" height="auto">
+                </div>
+                <div class="cat-name  pb-0">
+                    <label class="text-pink pointer">
+                        รถไม่เกิน 1 แสนบาท
+                    </label>
+                </div>
+              </a>
+              <div class="item-count">
+                <label class="text-black">
+                    มีสินค้าในหมวด 125 ชิ้น
+                </label>
+              </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/7.jpg" srcset="assets/images/icon/7.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          ซากรถ, อะไหล่รถ
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
                 </div>
             </div>
-          </div>
 
-          <div class="mb-lg-5 mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
-            <button class="mx-lg-0 mx-3 nav-link login-btn">
-                <p class=" mb-0">
-                  <i class="fa fa-search fa-lg"></i>
-                  ค้นหา
-                </p>
-            </button>
-          </div>
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/8.jpg" srcset="assets/images/icon/8.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          อู่รถฝีมือดี
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/9.jpg" srcset="assets/images/icon/9.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          งานสแตรเลส เหล็กอัลลูมิเนียม อัลลอยด์
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/10.jpg" srcset="assets/images/icon/10.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          บ้าน, ที่ดิน
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/11.jpg" srcset="assets/images/icon/11.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          สินค้า OTOP
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/12.jpg" srcset="assets/images/icon/12.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          สถานที่เที่ยว
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/13.jpg" srcset="assets/images/icon/13.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          เมนูอร่อย, อาหารแนะนำ
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
+
+            <div class="content-box p-1 align-center" style="position:relative;">
+                <a href="#">
+                  <div class="icon">
+                    <img src="assets/images/icon/14.jpg" srcset="assets/images/icon/14.jpg" alt="" title="" width="100%" height="auto">
+                  </div>
+                  <div class="cat-name  pb-0">
+                      <label class="text-pink pointer">
+                          งานกุศล, จิตอาสา
+                      </label>
+                  </div>
+                </a>
+                <div class="item-count">
+                  <label class="text-black">
+                      มีสินค้าในหมวด 125 ชิ้น
+                  </label>
+                </div>
+            </div>
 
 
-
-          <!-- แอดจอใหญ่  (มีแอดจอเล็กข้างล่างด้วย) -->
-          <div class="d-lg-block d-md-none d-none mb-3 ml-lg-0 ml-md-0 px-0">
-            <a href="#">
-              <img class="" src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="90%" height="100%">
-            </a>
           </div>
 
         </div>
 
-        <div class="mx-md-auto col-lg-9 col-md-11 col-12 px-0">
-
-
-              <div class="row mt-lg-5">
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
-                  <a href="productdetail.php">
-                        <div class="img-frame">
-                            <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">
-                        </div>
-                  </a>
-                        <div class="card-body px-0 pt-3">
-                            <h5 class="card-title text-pink">รถบ้าน Toyota Camry เจ้าของขายเอง</h5>
-                            <p class="card-text text-dark">ปี 2003, กรุงเทพมหนคร</p>
-                        </div>
-                        <div class="pull-right">
-                          <label class="card-price text-blue">435,000</label>
-                          <label class="card-price text-dark">บาท</label>
-                        </div>
-                </div>
-
-                <div class="col-12 mx-auto px-auto">
-                      <ul class="pagination justify-content-center">
-                        <li class="page-item mx-1"><a class="page-link" href="#">Previous</a></li>
-                        <li class="page-item mx-1"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item mx-1 active"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item mx-1"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item mx-1"><a class="page-link" href="#">Next</a></li>
-                      </ul>
-                </div>
-
-
-              </div>
-
-          </div>
-
-
-          <!-- แอดจอเล็ก  (มีแอดจอใหญ่ข้างบนด้วย) -->
-          <div class="d-lg-none d-md-block d-block col-lg-4 col-10 px-0 mx-auto align-center mt-5 das-overide-col">
-              <div>
-                <a href="#">
-                  <img src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
-                </a>
-              </div>
-          </div>
 
     </div>
 
