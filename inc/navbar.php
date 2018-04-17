@@ -34,11 +34,11 @@
 
             <ul class="navbar-nav ml-auto mb-1">
 
-                <!-- <li class="nav-item">
-                    <a class="nav-link" href="login.php">เข้าสู่ระบบ</a>
-                </li> -->
-
                 <li class="nav-item">
+                    <a class="nav-link" href="login.php">เข้าสู่ระบบ</a>
+                </li>
+
+                <!-- <li class="nav-item">
                   <div class="dropdown">
                   <button class="btn btn-secondary dropdown-toggle logged-in-button" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <img class="pt-0" width='30px' height='auto' src="assets/images/user/101.jpg" alt="">
@@ -48,10 +48,10 @@
                   </button>
                   <div class="dropdown-menu" aria-labelledby="dropdownMenu2" style="text-align:center;">
                       <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Edit Profile</button>
-                      <button class="dropdown-item" type="button" onclick="window.location.href='http://google.com';">Log out</button>
+                      <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Log out</button>
                   </div>
                   </div>
-                </li>
+                </li> -->
 
                 <li>
                     <a class="nav-link" href="#"><i class="fa fa-shopping-cart fa-lg p-relative" aria-hidden="true"><span class="bugget">0</span></i></a>
