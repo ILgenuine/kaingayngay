@@ -5,7 +5,6 @@
   </head>
 
   <body style="background-color:#EEE;">
-    \4
 
     <?php include_once('inc/navbar.php'); ?>
 
@@ -107,7 +106,7 @@
                         รายละเอียด :
                       </label>
                       <div class="ml-md-2 mx-auto col-lg-8 col-md-5 col-8 px-0">
-                        <textarea  class="form-control form-control-sm overide-w-1024-v2" id="" placeholder=""></textarea>
+                        <textarea  class="form-control form-control-sm overide-w-1024-v2" id="" placeholder="" rows="5"></textarea>
                       </div>
                       <div class="mt-2 mt-md-0 ml-md-0 mx-auto col-lg-1 col-md-1 col-12 px-0 align-center">
                       </div>
