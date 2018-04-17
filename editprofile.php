@@ -13,7 +13,7 @@
       <div class="row row-content mt-4 mb-5 mx-0">
 
 
-        <div class="col-lg-4 col-10 px-0 mx-auto ">
+        <div class="col-lg-4 col-10 px-0 mx-lg-auto mx-auto ">
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
             <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> แก้ไขข้อมูลส่วนตัว</label>
@@ -39,16 +39,11 @@
                 </p>
             </a>
           </div>
-
-
+          
         </div>
 
 
-
-
-
         <div class="mx-md-auto col-lg-8 col-md-11 col-12 px-0">
-
 
 
               <div class="page-title mt-5 ml-lg-0 ml-md-0 ml-3 mb-3 align-sm-center align-md-center">
@@ -61,21 +56,21 @@
                 <label>สามารถแก้ไขข้อมูลส่วนตัวได้ที่แบบฟอร์มด้านล่าง</label>
               </div>
 
-              <div class="mb-lg-5 ml-lg-0 ml-md-0  px-md-0 px-3 align-sm-center align-md-center">
+              <div class="mb-lg-5 ml-lg-0 ml-md-0 px-md-0 px-3 align-sm-center align-md-center">
                 <h4 class="text-dark">ข้อมูลส่วนตัว</h4>
               </div>
 
 
 
-              <div class="mb-5 col-lg-8 col-md-10 col-12 px-0 mx-auto">
+              <div class="mb-5 col-lg-8 col-md-10 col-12 px-0 mx-lg-0 mx-auto">
 
                 <div class="col-12">
                   <div class="form-group row mx-0">
                     <label class="mr-md-1 mx-auto col-lg-3 col-md-3 col-11 align-right align-md-right align-sm-center px-0">
                       Username :
                     </label>
-                    <div class="ml-md-2 mx-auto col-lg-5 col-md-5 col-8 px-0">
-                      <label>demo</label>
+                    <div class="col-lg-5 col-md-5 col-8 px-0 ml-md-2 mx-auto text-md-left text-center">
+                      <label >demo</label>
                     </div>
                     <div class="mt-2 mt-md-0 ml-md-0 mx-auto col-lg-1 col-md-1 col-12 px-0 align-center">
                     </div>
@@ -180,7 +175,7 @@
                <h4 class="text-dark">ที่อยู่</h4>
              </div>
 
-             <div class="col-lg-8 col-md-10 col-12 px-0 mx-auto">
+             <div class="col-lg-8 col-md-10 col-12 px-0 mx-lg-0 mx-auto">
 
                <div class="col-12">
                  <div class="form-group row mx-0">
@@ -250,7 +245,7 @@
                  </div>
                </div>
 
-               <div class="col-12">
+               <!-- <div class="col-12">
                  <div class="form-group row mx-0">
                    <label class="d-none d-md-none d-lg-block mr-md-0 mx-auto col-lg-4 col-md-3 col-11 align-right align-md-right align-sm-center px-0">
                    </label>
@@ -262,6 +257,23 @@
                      </button>
                    </div>
                    <div class="mt-2 ml-md-5 mx-auto col-lg-1 col-md-5 col-12 px-0 align-center">
+                   </div>
+                 </div>
+               </div> -->
+
+               <div class="col-12">
+                 <div class="form-group row mx-0">
+                   <label class="mr-md-1 mx-auto col-lg-3 col-md-2 col-11 align-right align-md-right align-sm-center px-0">
+
+                   </label>
+                   <div class="ml-md-2 mx-auto col-lg-5 col-md-3 col-8 px-0">
+                     <button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+                         <p class=" mb-0">
+                           สมัครสมาชิก
+                         </p>
+                     </button>
+                   </div>
+                   <div class="mt-2 mt-md-0 ml-md-0 mx-auto col-lg-1 col-md-1 col-12 px-0 align-center">
                    </div>
                  </div>
                </div>

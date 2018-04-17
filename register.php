@@ -218,7 +218,7 @@
                  </div>
                </div>
 
-               <div class="col-12">
+               <!-- <div class="col-12">
                  <div class="form-group row mx-0">
                    <label class="d-none d-md-none d-lg-block mr-md-0 mx-auto col-lg-4 col-md-3 col-11 align-right align-md-right align-sm-center px-0">
                    </label>
@@ -231,6 +231,22 @@
                    </div>
                    <div class="mt-2 ml-md-5 mx-auto col-lg-1 col-md-5 col-12 px-0 align-center">
                    </div>
+                 </div>
+               </div> -->
+
+               <div class="col-12">
+                 <div class="form-group row mx-0">
+                   <label class="mr-md-1 mx-auto col-lg-3 col-md-2 col-11 align-right align-md-right align-sm-center px-0">
+                   </label>
+                   <div class="ml-md-2 mx-auto col-lg-5 col-md-4 col-8 px-0">
+                     <button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+                         <p class=" mb-0">
+                           สมัครสมาชิก
+                         </p>
+                     </button>
+                  </div>
+                 <div class="mt-2 mt-md-0 ml-md-0 mx-auto col-lg-1 col-md-1 col-12 px-0 align-center">
+                 </div>
                  </div>
                </div>
 
