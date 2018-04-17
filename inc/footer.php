@@ -24,7 +24,7 @@
               </div>
               <div class="ml-lg-3 mt-lg-3 ml-md-3 mt-md-3 mt-3 ml-3" style="line-height:15px;">
                 <a class="text-black hover-pink" href="contact.php"><label class="mb-3">ติดต่อเรา</label></a><br>
-                <a class="text-black hover-pink" href="blank_page.php"><label class="mb-3">คำถามที่พบบ่อย</label></a><br>
+                <a class="text-black hover-pink" href="question.php"><label class="mb-3">คำถามที่พบบ่อย</label></a><br>
                 <a class="text-black hover-pink" href="blank_page.php"><label class="mb-3">นโยบายการใช้งาน</label></a><br>
                 <a class="text-black hover-pink" href="complain.php"><label class="mb-3">ข้อเสนอแนะ</label></a><br>
               </div>
