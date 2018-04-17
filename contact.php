@@ -5,6 +5,7 @@
   </head>
 
   <body style="background-color:#EEE;">
+    \4
 
     <?php include_once('inc/navbar.php'); ?>
 
@@ -153,7 +154,5 @@
     <?php include_once('inc/footer-script.php'); ?>
 
     </script>
-
-
   </body>
 </html>
