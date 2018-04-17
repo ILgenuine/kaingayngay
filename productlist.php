@@ -60,7 +60,7 @@
 
           <!-- แอดจอใหญ่  (มีแอดจอเล็กข้างล่างด้วย) -->
           <div class="d-lg-block d-md-none d-none mb-3 ml-lg-0 ml-md-0 px-0">
-            <img class="" src="assets/images/ads/270x500-demo.jpg" alt="" title="" width="90%" height="100%">
+            <img class="" src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="90%" height="100%">
           </div>
 
         </div>
@@ -233,7 +233,7 @@
           <!-- แอดจอเล็ก  (มีแอดจอใหญ่ข้างบนด้วย) -->
           <div class="d-lg-none d-md-block d-block col-lg-4 col-10 px-0 mx-auto align-center mt-5 das-overide-col">
               <div>
-                <img src="assets/images/ads/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
+                <img src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
               </div>
           </div>
 
