@@ -52,6 +52,7 @@ font-style: normal;
 /*------------------- General ---------------------*/
 
 
+
 body,html{
   min-height: 100%;
   height: 100%;
@@ -67,6 +68,10 @@ h1,h2,h3,h4,h5,h6{
 
 p{
 
+}
+
+a label {
+  cursor: pointer;
 }
 
 .section{
@@ -382,6 +387,10 @@ a:hover {
   border:1px solid transparent;
   border-radius: 15px;
   background-color:#ff7f00;
+  position:absolute;
+  top:5px;
+  right:10px;
+  height:10%;
 }
 
 .cat-name{
@@ -418,7 +427,7 @@ a:hover {
 
   .login-btn{
     display:block;
-    background-color: #fb62d2;
+    background-color: #f53dc3;
     color:white;
     border: none;
     width:150px;
@@ -426,7 +435,7 @@ a:hover {
   }
 
   .login-btn:hover{
-    background-color: #f53dc3;
+    background-color: #fb62d2;
     color:white;
   }
 
@@ -631,6 +640,10 @@ a:hover {
     overflow:hidden;
   }
 
+  .cat-tag{
+    font-size: 0.9rem;
+  }
+
   /*************************************************
   -------------------- INDEX Responsive 1024--------
   *************************************************/
@@ -768,6 +781,11 @@ a:hover {
     overflow:hidden;
   }
 
+  .cat-tag{
+    font-size: 1rem;
+    height:9%;
+  }
+
   /*************************************************
   -------------------- INDEX Responsive 768--------
   *************************************************/
@@ -890,6 +908,11 @@ a:hover {
       .item-count{
         height:20px;
         overflow:hidden;
+      }
+
+      .cat-tag label{
+        margin-bottom: 0px;
+        margin-top: 2px;
       }
 
   /*************************************************
@@ -1035,6 +1058,10 @@ a:hover {
       .item-count{
         height:20px;
         overflow:hidden;
+      }
+
+      .cat-tag label{
+        margin-top: 0px;
       }
 
   /*************************************************

@@ -47,7 +47,7 @@
             </div>
           </div>
 
-          <div class="mb-lg-3 mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
+          <div class="mb-lg-5 mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
             <button class="mx-lg-0 mx-3 nav-link login-btn">
                 <p class=" mb-0">
                   <i class="fa fa-search fa-lg"></i>
@@ -70,7 +70,7 @@
 
               <div class="row mt-lg-5">
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
@@ -86,7 +86,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
@@ -102,7 +102,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">
@@ -118,7 +118,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
@@ -134,7 +134,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
@@ -150,7 +150,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">
@@ -166,7 +166,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car1.jpg" alt="Card image cap">
@@ -182,7 +182,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car2.jpg" alt="Card image cap">
@@ -198,7 +198,7 @@
                         </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-5 mb-lg-3 mb-4">
+                <div class="col-lg-4 col-md-6 col-12 px-lg-3 px-md-3 px-5 mb-lg-3 mb-4">
                   <a href="productdetail.php">
                         <div class="img-frame">
                             <img class="card-img-top" src="assets/images/car/car3.jpg" alt="Card image cap">

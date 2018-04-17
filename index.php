@@ -46,8 +46,8 @@
                   </div>
               </div>
             </div>
+          </div>
         </div>
-      </div>
       <div style="background-color:#ffffff4a;height:auto;width:100%;position:absolute;top:0;left:0;z-index:-1;">
       </div>
     </div>
@@ -73,7 +73,7 @@
           </a>
           <div class="item-count">
             <label class="text-black">
-                มีสินค้าในหมวด 125 ชิ้น
+                มีสินค้าในหมวด 1.5พัน ชิ้น
             </label>
           </div>
 
@@ -98,7 +98,7 @@
 
 
           <!-- New -->
-          <div class="cat-tag" style="position:absolute;top:5px;right:10px;height:10%;">
+          <div class="cat-tag">
                   <label class="text-white">NEW</label>
           </div>
 
@@ -118,7 +118,7 @@
           </a>
           <div class="item-count">
             <label class="text-black">
-                มีสินค้าในหมวด 125 ชิ้น
+              มีสินค้าในหมวด 6.1หมื่น ชิ้น
             </label>
           </div>
         </div>
@@ -338,7 +338,6 @@
               </label>
             </div>
         </div>
-
 
 
       </div>

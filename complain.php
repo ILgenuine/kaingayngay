@@ -73,7 +73,7 @@
                       รายละเอียด :
                     </label>
                     <div class="ml-md-2 mx-auto col-lg-5 col-md-5 col-8 px-0">
-                      <textarea  class="form-control form-control-sm overide-w-1024" id="" placeholder=""></textarea>
+                      <textarea  class="form-control form-control-sm overide-w-1024" id="" placeholder="" rows="4"></textarea>
                     </div>
                     <div class="mt-2 mt-md-0 ml-md-0 mx-auto col-lg-1 col-md-1 col-12 px-0 align-center">
                     </div>

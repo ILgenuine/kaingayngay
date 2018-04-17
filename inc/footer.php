@@ -26,7 +26,7 @@
                 <a class="text-black hover-pink" href="#"><label class="mb-3">ติดต่อเรา</label></a><br>
                 <a class="text-black hover-pink" href="#"><label class="mb-3">คำถามที่พบบ่อย</label></a><br>
                 <a class="text-black hover-pink" href="#"><label class="mb-3">นโยบายการใช้งาน</label></a><br>
-                <a class="text-black hover-pink" href="#"><label class="mb-3">ข้อเสนอแนะ</label></a><br>
+                <a class="text-black hover-pink" href="complain.php"><label class="mb-3">ข้อเสนอแนะ</label></a><br>
               </div>
           </div>
           <div class="col-12 col-md-10 mx-md-auto col-lg-3 mt-md-2 ml-lg-4 mt-2 pl-md-0  pl-5">

@@ -13,9 +13,9 @@
             </h4>
           </div>
           <div>
-            <label class=" text-grey mb-0">
+            <h5 class=" text-grey mb-0">
               Kaiy Ngay Ngay
-            </label>
+            </h5>
           </div>
         </a>
       </div>
@@ -34,11 +34,11 @@
 
             <ul class="navbar-nav ml-auto mb-1">
 
-                <li class="nav-item">
-                    <a class="nav-link" href="login.php">เข้าสู่ระบบ</a>
-                </li>
-
                 <!-- <li class="nav-item">
+                    <a class="nav-link" href="login.php">เข้าสู่ระบบ</a>
+                </li> -->
+
+                <li class="nav-item">
                   <div class="dropdown">
                   <button class="btn btn-secondary dropdown-toggle logged-in-button" type="button" id="dropdownMenu2" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                     <img class="pt-0" width='30px' height='auto' src="assets/images/user/101.jpg" alt="">
@@ -51,7 +51,7 @@
                       <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Log out</button>
                   </div>
                   </div>
-                </li> -->
+                </li>
 
                 <li>
                     <a class="nav-link" href="#"><i class="fa fa-shopping-cart fa-lg p-relative" aria-hidden="true"><span class="bugget">0</span></i></a>
@@ -64,7 +64,7 @@
                     <div class="input-group mb-2">
                       <input type="text" class="form-control underline" placeholder="ค้นหาสินค้า" aria-label="">
                       <div class="input-group-prepend">
-                        <button class="btn btn-outline-secondary underline" type="button" ><i class="fa fa-search fa-lg"></i></button>
+                        <button class="btn btn-outline-secondary underline" type="button"><i class="fa fa-search fa-lg"></i></button>
                       </div>
                     </div>
 
