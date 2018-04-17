@@ -1,0 +1,1062 @@
+/*
+==========================================================================
+--------------------------- office DD CSS---------------------------------
+==========================================================================
+*/
+
+@font-face {
+font-family: 'rsuregular';
+src: url('../fonts/rsu/rsu_regular-webfont.eot');
+src: url('../fonts/rsu/rsu_regular-webfont.eot?#iefix') format('embedded-opentype'),
+url('../fonts/rsu/rsu_regular-webfont.woff2') format('woff2'),
+url('../fonts/rsu/rsu_regular-webfont.woff') format('woff'),
+url('../fonts/rsu/rsu_regular-webfont.ttf') format('truetype');
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+    font-family: 'kanitbold';
+    src: url('../fonts/kanit/kanit-bold-webfont.woff2') format('woff2'),
+         url('../fonts/kanit/kanit-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kanitlight';
+    src: url('../fonts/kanit/kanit-light-webfont.woff2') format('woff2'),
+         url('../fonts/kanit/kanit-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'kanitmedium';
+    src: url('../fonts/kanit/kanit-medium-webfont.woff2') format('woff2'),
+         url('../fonts/kanit/kanit-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kanitregular';
+    src: url('../fonts/kanit/kanit-regular-webfont.woff2') format('woff2'),
+         url('../fonts/kanit/kanit-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+/*------------------- General ---------------------*/
+
+
+body,html{
+  min-height: 100%;
+  height: 100%;
+	font-family: 'kanitregular';
+	font-weight: 300;
+	color: #838383;
+}
+
+
+h1,h2,h3,h4,h5,h6{
+
+}
+
+p{
+
+}
+
+.section{
+	margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+.text-pink{
+	color: #ff00bb;
+}
+
+.text-blue{
+	color: #197adc;
+}
+
+.text-black{
+	color: #838383;
+}
+
+.text-darkblack{
+	color: #6f6f6f;
+}
+
+.text-grey{
+  color: #AAA;
+}
+
+.text-default{
+	color: #666666;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.p-relative{
+  position:relative;
+}
+
+.hover-pink:hover{
+  color:#fb62d2 !important;
+}
+
+.bg-light{
+  background-color:white;
+}
+
+.absolute{
+  position:absolute;
+  top:0;
+  left:0;
+}
+
+.relative{
+  position:relative;
+}
+
+.pointer{
+  cursor: pointer;
+  transition: all 1s;
+}
+
+.text-darkblue{
+  color:#3773af;
+}
+
+.form-control{
+  border-radius: 0px;
+}
+
+
+
+/*************************************************
+-------------------- NAVBAR ----------------------
+*************************************************/
+.nav-container{
+    max-width: 1500px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 1rem;
+    padding-left: 1rem;
+
+}
+
+.nav-border{
+  border-top: 3px solid #fb62d2;
+	border-bottom: 2px solid #dadada;
+	background-color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: black;
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: #006caf;
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: #094d8c;
+    border-top: 4px solid #094d8c;
+    margin-top: -5px;
+}
+
+.navbar-light .menu-two .nav-link{
+	font-weight: 300;
+	color: #666666;
+	font-size: 12px;
+}
+
+.bugget{
+  padding: 3px 5px 3px 5px;
+    border: 1px solid #fb62d2;
+    background-color: #fb62d2;
+    border-radius: 25px;
+    bottom: -15px;
+    right: -15px;
+    position: absolute;
+    color: white;
+    font-size: 15px;
+}
+
+.underline{
+  border:unset;
+  border-bottom: 1px solid grey;
+  box-shadow: unset;
+}
+
+.underline:focus{
+  box-shadow: unset;
+  border-color: unset;
+}
+
+.btn-outline-secondary:hover {
+    color: #fb62d2;
+    background-color: unset;
+    border-color: grey;
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active{
+    color: #fb62d2;
+    background-color: unset;
+    box-shadow: unset;
+}
+
+.btn-outline-secondary:not(:disabled):not(.disabled):active:focus{
+  color: #fb62d2;
+  background-color: unset;
+  box-shadow: unset;
+}
+
+.sell-register{
+  color: white !important;
+  border-radius: 20px;  background-color: #ff00bb;
+  border: 1px solid transparent;
+  padding: 5px 1px 5px 1px;
+  transition: : all 1s !important;
+}
+
+.sell-register:hover{
+  color: white !important;
+  background-color: #fb62d2;
+}
+
+.register{
+  color: white !important;
+  border-radius: 20px;
+  background-color: #0268ce;
+  border: 1px solid transparent;
+  padding: 5px 1px 5px 1px;
+  transition: : all 1s !important;
+}
+
+.register:hover{
+  color: white !important;
+  background-color: #197adc;
+}
+
+.logged-in-button{
+  color:#fb62d2;
+  background-color: #ffffff00;
+  border:unset;
+}
+
+.logged-in-button:hover{
+  color:#fb62d2;
+  background-color: #ffffff00;
+  border:unset;
+  box-shadow: unset;
+}
+
+.btn-secondary :not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle{
+  color:#fb62d2;
+  background-color: #ffffff00;
+  border:unset;
+  box-shadow: unset;
+}
+
+.dropdown-toggle::after {
+  color: #808080;
+}
+
+.show>.btn-secondary.dropdown-toggle:focus{
+  border:unset;
+  background-color: unset;
+  box-shadow: unset;
+}
+
+ .btn-secondary:focus{
+   box-shadow: unset;
+ }
+
+.btn-secondary:not(:disabled):not(.disabled):active{
+  border:unset;
+  background-color: unset;
+  box-shadow: unset;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active, .show>.btn-secondary.dropdown-toggle{
+  color:#fb62d2;
+}
+
+.btn-secondary:not(:disabled):not(.disabled):active:focus{
+  box-shadow: unset;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #fb62d2;
+}
+
+.navbar-light .navbar-toggler {
+    border-color: #fb62d2;
+}
+
+.align-center{
+  text-align: center;
+}
+
+.align-right{
+  text-align: right;
+}
+
+.align-left{
+  text-align: left;
+}
+
+.dropdown-menu{
+    padding:0px;
+}
+
+
+/*************************************************
+-------------------- END NAVBAR ------------------
+*************************************************/
+
+
+
+
+
+/*************************************************
+-------------------- INDEX PAGE ------------------
+*************************************************/
+
+.pointer:hover{
+  text-shadow:1px 1px 15px;
+}
+
+
+.header-bg{
+    height:500px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.header-blue-text{
+  font-family: 'kanit';
+  font-size: 30px;
+}
+
+.header-pink-text{
+  font-family: 'kanit';
+  font-size: 45px;
+  font-weight: 400;
+}
+
+.btn-pull-right{
+  float:right;
+}
+
+.btn-pull-left{
+  float:left;
+}
+
+.content-box{
+  border: 1px solid #CCC;
+  width:222px;
+  height:220px;
+  background-color: #FFF;
+}
+
+.icon{
+  padding-top:10%;
+}
+
+.cat-tag{
+  padding-top:0;
+  padding-left:5px;
+  padding-right:5px;
+  border:1px solid transparent;
+  border-radius: 15px;
+  background-color:#ff7f00;
+}
+
+.cat-name{
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top:20px;
+  margin-bottom:10px;
+  height:45px;
+  overflow:hidden;
+  position: relative;
+}
+
+.item-count{
+  height:20px;
+  overflow:hidden;
+}
+
+/*************************************************
+-------------------- END INDEX PAGE ------------------
+*************************************************/
+
+
+/*************************************************
+-------------------- LOGIN PAGE ------------------
+*************************************************/
+
+  .ads{
+    margin:0px;
+  }
+
+  .row-content{
+
+  }
+
+  .login-btn{
+    display:block;
+    background-color: #fb62d2;
+    color:white;
+    border: none;
+    width:150px;
+    cursor: pointer;
+  }
+
+  .login-btn:hover{
+    background-color: #f53dc3;
+    color:white;
+  }
+
+/*************************************************
+-------------------- END LOGIN ------------------
+*************************************************/
+
+
+
+/*************************************************
+--------------------  REGISTER  ------------------
+*************************************************/
+
+    .plus-btn-style{
+        background-color: #fb62d2;
+        color:white;
+    }
+
+    .plus-btn-style:hover{
+        background-color: #f53dc3;
+    }
+
+    .das-overide-col
+    {
+      max-width:93.333333% !important;
+    }
+
+    .editprofile-btn .active{
+      display: block;
+      background-color: #fb62d2;
+      color: white;
+      border: none;
+      width: 200px;
+      cursor: pointer;
+    }
+
+    .editprofile-btn .not-active{
+      display: block;
+      background-color: #CCC;
+      color: black;
+      border: none;
+      width: 200px;
+      cursor: pointer;
+    }
+/*************************************************
+-------------------- END REGISTER ---------------
+*************************************************/
+
+
+/*************************************************
+--------------------  MYPOST  ------------------
+*************************************************/
+
+    .img-frame{
+      background-color: white;
+      outline: 1px solid #BBB;
+      outline-offset: 7px;
+    }
+
+    .card-price{
+      margin-bottom: .75rem;
+      font-size: 20px;
+    }
+
+    .page-item.active .page-link {
+      z-index: 1;
+      color: #fff;
+      background-color: #fb62d2;
+      border-color: unset;
+    }
+
+    .page-link {
+      position: relative;
+      display: block;
+      padding: .5rem .75rem;
+      margin-left: -1px;
+      line-height: 1.25;
+      color: black;
+      background-color: #fff;
+    }
+
+
+
+/*************************************************
+-------------------- END MYPOST ---------------
+*************************************************/
+
+
+
+/*************************************************
+-------------------- SELL  ---------------
+*************************************************/
+.overide-w-textarea{
+  width:160% !important;
+}
+
+/*************************************************
+-------------------- END SELL ---------------
+*************************************************/
+
+
+
+
+/*************************************************
+-------------------- PRODUCTDETAIL  ---------------
+*************************************************/
+
+
+.stand-frame{
+  outline:1px solid #BBB;
+  outline-offset: 4px;
+}
+
+
+  .show-1024{
+    display:none;
+  }
+
+  .product-price{
+    margin-bottom: .75rem;
+    font-size: 30px;
+  }
+
+  .text-bold{
+    font-weight: 600;
+  }
+
+
+  .add-to-cart{
+    cursor: pointer;
+  }
+
+  button:focus {
+      outline: unset;
+  }
+
+/*************************************************
+----------------- END PRODUCTDETAIL -------------
+*************************************************/
+
+
+/*************************************************
+-------------------- FOOOTER ------------------
+*************************************************/
+
+  .footer{
+    background-color: #FFF;
+    height:auto;
+  }
+
+  .footer-container{
+      max-width: 1500px;
+  }
+
+  .second-container{
+    background-color: #2c323c;
+  }
+
+  .footer-text-size{
+    font-size:30px;
+    font-weight: 600;
+  }
+
+  .footer-text-size-2{
+    font-size:20px;
+  }
+
+/*************************************************
+-------------------- END FOOTER ------------------
+*************************************************/
+
+
+
+/*------------------- RESPONSIVE ---------------------*/
+
+
+@media (max-width: 1366px){
+
+}
+
+@media (max-width: 1024px){
+
+  /*************************************************
+  -------------------- INDEX Responsive 1024--------
+  *************************************************/
+
+  .content-box{
+    width:231px;
+    height:220px;
+  }
+
+  .cat-name{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top:20px;
+    height:45px;
+    overflow:hidden;
+  }
+
+  .item-count{
+    height:20px;
+    overflow:hidden;
+  }
+
+  /*************************************************
+  -------------------- INDEX Responsive 1024--------
+  *************************************************/
+
+  /*************************************************
+  -------------------- LOGIN Responsive 1024--------
+  *************************************************/
+
+  .overide-form{
+    width: 106%;
+  }
+
+  .overide-w-1024{
+    width:130% !important;
+  }
+
+  .overide-w-1024-v2{
+    width:110% !important;
+  }
+  /*************************************************
+  -------------------- LOGIN Responsive 1024--------
+  *************************************************/
+
+
+
+
+  /*************************************************
+  -------------------- REGISTER Responsive 1024--------
+  *************************************************/
+
+  .plus-btn{
+    padding-left: 30px !important;;
+  }
+
+  /*************************************************
+  -------------------- REGISTER Responsive 1024--------
+  *************************************************/
+
+
+  /*************************************************
+  --------------------  PRODUCTLIST RESPONSIVE 1024  ------------------
+  *************************************************/
+
+    .resize-da{
+      width:200px;
+      height: 350px;
+    }
+
+  /*************************************************
+  -------------------- END PRODUCTLIST RESPONSIVE 1024---------------
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- PRODUCTDETAIL RESPONSIVE 1024 ---------------
+  *************************************************/
+
+  .showcase{
+    height:350px;
+  }
+
+  .stand-frame{
+
+  }
+
+  .hide-1024{
+    display:none;
+  }
+
+  .show-1024{
+    display:block;
+  }
+
+  /*************************************************
+  ----------------- END PRODUCTDETAIL RESPONSIVE 1024 -------------
+  *************************************************/
+
+
+
+}
+
+
+@media (max-width: 768px){
+
+  .text-md-left { text-align: left; }
+  .text-md-right { text-align: right; }
+  .text-md-center { text-align: center; }
+  .text-md-justify { text-align: justify; }
+  .align-md-left{ text-align:left; }
+  .align-md-center{ text-align:center; }
+
+
+  /*************************************************
+  -------------------- NAVBAR Responsive 768--------
+  *************************************************/
+      .header-bg{
+          height:350px;
+      }
+
+      .sell-register{
+        width:22%;
+      }
+
+      .sell-register-2{
+        width:50%;
+      }
+
+      .register{
+        width:50%;
+      }
+
+  /*************************************************
+  -------------------- END NAVBAR Responsive 768 ---
+  *************************************************/
+
+  /*************************************************
+  -------------------- INDEX Responsive 768--------
+  *************************************************/
+
+  .content-box{
+    width:345px;
+    height:300px;
+  }
+
+  .cat-name{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top:50px;
+    height:45px;
+    overflow:hidden;
+  }
+
+  .item-count{
+    height:20px;
+    overflow:hidden;
+  }
+
+  /*************************************************
+  -------------------- INDEX Responsive 768--------
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- LOGIN Responsive 768--------
+  *************************************************/
+
+  .overide-form{
+    width: inherit;
+  }
+
+  .overide-w-1024{
+    width:inherit !important;
+  }
+
+  .overide-w-1024-v2{
+    width:inherit !important;
+  }
+
+  /*************************************************
+  -------------------- LOGIN Responsive 768--------
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- REGISTER Responsive 768--------
+  *************************************************/
+
+  .plus-btn{
+    padding-left: unset !important;;
+  }
+
+  /*************************************************
+  -------------------- REGISTER Responsive 768--------
+  *************************************************/
+
+  /*************************************************
+  -------------------- PRODUCTDETAIL RESPONSIVE 768 ---------------
+  *************************************************/
+
+  .showcase{
+    height:500px;
+  }
+
+  .hide-1024{
+    display:block;
+  }
+
+  .show-1024{
+    display:none;
+  }
+
+  .stand-frame{
+    height:115px;
+    width:155px;
+  }
+
+  .add-to-cart{
+    float:unset;
+  }
+
+  /*************************************************
+  ----------------- END PRODUCTDETAIL RESPONSIVE 768 -------------
+  *************************************************/
+
+
+
+}
+
+@media (max-width: 414px){
+
+  .align-sm-center{
+    text-align: center;
+  }
+
+  /*************************************************
+  -------------------- NAVBAR Responsive 414--------
+  *************************************************/
+      .sell-register{
+        width:50%;
+      }
+  /*************************************************
+  -------------------- END NAVBAR Responsive 414 ---
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- INDEX Responsive 414--------
+  *************************************************/
+
+      .header-bg{
+        height:300px;
+        background-size: 100% 100%!important;
+        background-position: 50% 10% !important;
+      }
+
+      .btn-pull-right{
+          float:unset;
+      }
+
+      .btn-pull-left{
+          float:unset;
+      }
+
+      .content-box{
+        width:384px;
+        height:340px;
+      }
+
+      .cat-name{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top:60px;
+        height:45px;
+        overflow:hidden;
+      }
+
+      .item-count{
+        height:20px;
+        overflow:hidden;
+      }
+
+  /*************************************************
+  -------------------- END INDEX Responsive 414 ---
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- PRODUCTDETAIL RESPONSIVE 414 ---------------
+  *************************************************/
+
+  .showcase{
+    height:240px;
+  }
+
+  .stand-frame{
+    height:110px;
+    width:160px;
+  }
+
+  /*************************************************
+  ----------------- END PRODUCTDETAIL RESPONSIVE 414 -------------
+  *************************************************/
+
+
+
+}
+
+@media (max-width: 375px){
+
+
+  /*************************************************
+  -------------------- INDEX Responsive 375--------
+  *************************************************/
+
+      .header-bg{
+        height:300px;
+        background-size: 120% 100% !important;
+        background-position: 50% 10% !important;
+
+      }
+
+      .header-blue-text{
+        font-size: 25px;
+      }
+
+      .header-pink-text{
+        font-size: 30px;
+      }
+
+
+      .sell-register {
+          width: 60%;
+      }
+
+      .register {
+          width: 60%;
+      }
+
+      .content-box{
+        height:310px;
+      }
+
+      .cat-name{
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top:50px;
+        height:45px;
+        overflow:hidden;
+      }
+
+      .item-count{
+        height:20px;
+        overflow:hidden;
+      }
+
+
+  /*************************************************
+  -------------------- END INDEX Responsive 375 ---
+  *************************************************/
+
+
+  /*************************************************
+  -------------------- PRODUCTDETAIL RESPONSIVE 375 ---------------
+  *************************************************/
+
+  .showcase{
+    height:240px;
+  }
+
+  .stand-frame{
+    height:90px;
+    width:140px;
+  }
+
+  /*************************************************
+  ----------------- END PRODUCTDETAIL RESPONSIVE 375 -------------
+  *************************************************/
+
+
+}
+
+@media (max-width: 320px){
+
+
+  /*************************************************
+  -------------------- INDEX Responsive 320--------
+  *************************************************/
+
+      .header-bg{
+        height:250px;
+        background-size: 100% 100%!important;
+        background-position: 50% 10% !important;
+
+      }
+
+      .header-blue-text{
+        font-size: 25px;
+      }
+
+      .header-pink-text{
+        font-size: 25px;
+      }
+
+      .sell-register {
+          width: 75%;
+      }
+
+      .register {
+          width: 75%;
+      }
+
+      .content-box{
+        height:270px;
+      }
+
+      .cat-name{
+        margin-top:30px;
+        height:45px;
+        overflow:hidden;
+      }
+
+      .item-count{
+        height:20px;
+        overflow:hidden;
+      }
+
+  /*************************************************
+  -------------------- END INDEX Responsive 320 ---
+  *************************************************/
+
+  /*************************************************
+  -------------------- PRODUCTDETAIL RESPONSIVE 320 ---------------
+  *************************************************/
+
+  .showcase{
+    height:210px;
+  }
+
+  .stand-frame{
+    height:70px;
+    width:110px;
+  }
+
+  /*************************************************
+  ----------------- END PRODUCTDETAIL RESPONSIVE 320 -------------
+  *************************************************/
+
+
+}
