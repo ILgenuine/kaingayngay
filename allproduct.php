@@ -16,13 +16,13 @@
         <div class="col-lg-3 col-10 px-0 mx-auto ">
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
-            <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> รถยนต์ทั่วไป</label>
+            <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue">รวมประกาศ</label>
           </div>
 
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3 editprofile-btn">
             <h3 class="text-pink mb-0">
-              รถยนต์ทั่วไป
+              รวมประกาศ
             </h3>
           </div>
 
