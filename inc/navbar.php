@@ -76,10 +76,10 @@
                     <a class="text-black hover-pink nav-link " href="index.php">หน้าหลัก</a>
                 </li>
                 <li class="nav-item">
-                    <a class="text-black hover-pink nav-link " href="#">หมวดสินค้า</a>
+                    <a class="text-black hover-pink nav-link " href="productcategories.php">หมวดสินค้า</a>
                 </li>
                 <li class="nav-item">
-                    <a class="text-black hover-pink nav-link " href="productlist.php">รวมประกาศ</a>
+                    <a class="text-black hover-pink nav-link " href="allproduct.php">รวมประกาศ</a>
                 </li>
                 <li class="nav-item">
                     <a class="text-black hover-pink nav-link " href="register.php">สมัครสมาชิก</a>

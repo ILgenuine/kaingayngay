@@ -16,13 +16,13 @@
         <div class="col-lg-3 col-10 px-0 mx-auto ">
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
-            <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> ประกาศของฉัน</label>
+            <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> รถยนต์ทั่วไป</label>
           </div>
 
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3 editprofile-btn">
             <h3 class="text-pink mb-0">
-              ประกาศของฉัน
+              รถยนต์ทั่วไป
             </h3>
           </div>
 
@@ -60,7 +60,9 @@
 
           <!-- แอดจอใหญ่  (มีแอดจอเล็กข้างล่างด้วย) -->
           <div class="d-lg-block d-md-none d-none mb-3 ml-lg-0 ml-md-0 px-0">
-            <img class="" src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="90%" height="100%">
+            <a href="#">
+              <img class="" src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="90%" height="100%">
+            </a>
           </div>
 
         </div>
@@ -233,7 +235,9 @@
           <!-- แอดจอเล็ก  (มีแอดจอใหญ่ข้างบนด้วย) -->
           <div class="d-lg-none d-md-block d-block col-lg-4 col-10 px-0 mx-auto align-center mt-5 das-overide-col">
               <div>
-                <img src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
+                <a href="#">
+                  <img src="assets/images/sponsor/270x500-demo.jpg" alt="" title="" width="270px" height="500px">
+                </a>
               </div>
           </div>
 

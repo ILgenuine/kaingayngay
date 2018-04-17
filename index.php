@@ -20,7 +20,7 @@
               <div class="col-10 mx-auto ml-auto mt-2 my-md-4 d-lg-block d-md-block d-none">
                   <div class="mx-auto" style="width:100%;text-align:center;">
                     <h4 class="text-darkblack">เรายินดีเปิดพื้นที่ออนไลน์ให้ทำการซื้อขายสินค้าทุกประเภท</h4>
-                    <h4 class="text-darkblack">ปลอดภัย มีคุณภาพแลพน่าเชื่อถือ</h4>
+                    <h4 class="text-darkblack">ปลอดภัย มีคุณภาพและน่าเชื่อถือ</h4>
                   </div>
               </div>
               <div class="col-10 mx-auto ml-auto mt-md-1">
