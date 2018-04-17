@@ -48,7 +48,7 @@
                   </button>
                   <div class="dropdown-menu" aria-labelledby="dropdownMenu2" style="text-align:center;">
                       <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Edit Profile</button>
-                      <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Log out</button>
+                      <button class="dropdown-item" type="button" onclick="window.location.href='index.php';">Log out</button>
                   </div>
                   </div>
                 </li>
