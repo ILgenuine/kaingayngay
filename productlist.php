@@ -47,8 +47,8 @@
             </div>
           </div>
 
-          <div class="mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
-            <button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+          <div class="mb-lg-3 mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
+            <button class="mx-lg-0 mx-3 nav-link login-btn">
                 <p class=" mb-0">
                   <i class="fa fa-search fa-lg"></i>
                   ค้นหา
