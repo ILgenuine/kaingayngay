@@ -27,20 +27,13 @@
           </div>
 
           <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
-
-            <div class="ml-4">
-                <input type="checkbox" class="form-check-input">
                 <label class="form-check-label text-dark" style="font-weight: 600;">
                      เลือกช่วงราคา
                 </label>
-            </div>
-
-
           </div>
 
 
-          <div class="mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
-
+          <div class="mb-lg-3 mb-md-3 mb-3 ml-lg-0 ml-md-0 ml-md-0">
             <div class="row ml-lg-0 ml-md-0 ml-3">
                 <div class="col-5 pl-0">
                   <input type="text" id="" class="form-control mx-lg-0 mx-md-0 mx-sm-3" placeholder="50,000">
@@ -52,8 +45,17 @@
                   <input type="text" id="" class="form-control mx-lg-0  mx-md-0 mx-sm-3" placeholder="500,000">
                 </div>
             </div>
-
           </div>
+
+          <div class="mb-md-5 mb-4 ml-lg-0 ml-md-0 ml-md-0">
+            <button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+                <p class=" mb-0">
+                  <i class="fa fa-search fa-lg"></i>
+                  ค้นหา
+                </p>
+            </button>
+          </div>
+
 
 
           <!-- แอดจอใหญ่  (มีแอดจอเล็กข้างล่างด้วย) -->
