@@ -13,9 +13,9 @@
             </h4>
           </div>
           <div>
-            <label class=" text-grey mb-0">
+            <h5 class=" text-grey mb-0">
               Kaiy Ngay Ngay
-            </label>
+            </h5>
           </div>
         </a>
       </div>
@@ -48,7 +48,7 @@
                   </button>
                   <div class="dropdown-menu" aria-labelledby="dropdownMenu2" style="text-align:center;">
                       <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Edit Profile</button>
-                      <button class="dropdown-item" type="button" onclick="window.location.href='http://google.com';">Log out</button>
+                      <button class="dropdown-item" type="button" onclick="window.location.href='editprofile.php';">Log out</button>
                   </div>
                   </div>
                 </li>
@@ -64,7 +64,7 @@
                     <div class="input-group mb-2">
                       <input type="text" class="form-control underline" placeholder="ค้นหาสินค้า" aria-label="">
                       <div class="input-group-prepend">
-                        <button class="btn btn-outline-secondary underline" type="button" ><i class="fa fa-search fa-lg"></i></button>
+                        <button class="btn btn-outline-secondary underline" type="button"><i class="fa fa-search fa-lg"></i></button>
                       </div>
                     </div>
 

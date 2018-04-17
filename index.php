@@ -17,13 +17,13 @@
                   <label class="text-pink header-pink-text mx-2">ขายง่ายง่าย</label>
                   <label class="text-blue header-blue-text">ดอทคอม</label>
               </div>
-              <div class="col-10 mx-auto ml-auto mt-2 d-lg-block d-md-block d-none">
+              <div class="col-10 mx-auto ml-auto mt-2 my-md-4 d-lg-block d-md-block d-none">
                   <div class="mx-auto" style="width:100%;text-align:center;">
                     <h4 class="text-darkblack">เรายินดีเปิดพื้นที่ออนไลน์ให้ทำการซื้อขายสินค้าทุกประเภท</h4>
                     <h4 class="text-darkblack">ปลอดภัย มีคุณภาพแลพน่าเชื่อถือ</h4>
                   </div>
               </div>
-              <div class="col-10 mx-auto ml-auto mt-md-3">
+              <div class="col-10 mx-auto ml-auto mt-md-1">
                   <div class="row">
                         <div class="col-12 col-md-6 col-lg-6 mx-auto my-lg-0 my-md-0 my-2" style="text-align:center;">
                           <a class="btn text-black hover-pink nav-link sell-register sell-register-2 mx-auto px-0 px-lg-3 btn-pull-right" href="sell.php">
@@ -46,8 +46,8 @@
                   </div>
               </div>
             </div>
+          </div>
         </div>
-      </div>
       <div style="background-color:#ffffff4a;height:auto;width:100%;position:absolute;top:0;left:0;z-index:-1;">
       </div>
     </div>
@@ -73,7 +73,7 @@
           </a>
           <div class="item-count">
             <label class="text-black">
-                มีสินค้าในหมวด 125 ชิ้น
+                มีสินค้าในหมวด 1.5พัน ชิ้น
             </label>
           </div>
 
@@ -98,7 +98,7 @@
 
 
           <!-- New -->
-          <div class="cat-tag" style="position:absolute;top:5px;right:10px;height:10%;">
+          <div class="cat-tag">
                   <label class="text-white">NEW</label>
           </div>
 
@@ -118,7 +118,7 @@
           </a>
           <div class="item-count">
             <label class="text-black">
-                มีสินค้าในหมวด 125 ชิ้น
+              มีสินค้าในหมวด 6.1หมื่น ชิ้น
             </label>
           </div>
         </div>
@@ -338,7 +338,6 @@
               </label>
             </div>
         </div>
-
 
 
       </div>
