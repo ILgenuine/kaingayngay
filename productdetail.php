@@ -199,11 +199,11 @@
                   </div>
 
                   <div class="pb-4 px-4 mb-lg-5 mb-md-3">
-                    <button class="add-to-cart sell-register text-black hover-pink nav-link mx-auto px-0 px-lg-3 pull-right">
+                    <a href="cart.php" class="btn add-to-cart sell-register text-black hover-pink nav-link mx-auto px-0 px-lg-3 pull-right">
                         <p class=" mb-0">
                           หยิบใส่ตะกร้า
                         </p>
-                    </button>
+                    </a>
                   </div>
 
 
