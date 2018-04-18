@@ -15,8 +15,13 @@
 	       	 	<div class="thumbnail">
 	       	 		<div class="row">
 		       	 		<div class="col-sm-12">
-							<h3 class="text-pink">ตะกร้าสินค้า</h3>
-						</div>
+                  <div class="col-12 px-0 mx-auto ">
+                    <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
+                      <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> ตะกร้าสินค้า</label>
+                    </div>
+                  </div>
+    							<h3 class="text-pink">ตะกร้าสินค้า</h3>
+    						</div>
 						<div class="col-12 col-lg-8 table-responsive">
 							<table class="table table-light table-bordered">
 							<thead>
@@ -39,7 +44,7 @@
 										รองเท้า
 									</td>
 									<td>199</td>
-									
+
 									<td><a href=""><i class="fa fa-times" aria-hidden="true" style="color: #d12b27;"></i></a></td>
 								</tr>
 								<tr>
@@ -53,7 +58,7 @@
 										รองเท้า
 									</td>
 									<td>250</td>
-									
+
 									<td><a href=""><i class="fa fa-times" aria-hidden="true" style="color: #d12b27;"></i></a></td>
 								</tr>
 								<tr>
@@ -71,7 +76,7 @@
 								</tr>
 							</tbody>
 
-								
+
 							</table>
 						</div>
 
@@ -89,57 +94,58 @@
 	                            </div>
 	                            <div class="form-group input-group">
 	                               	<input type="radio" name="sup" class="mt-1"> &nbsp;Lorem ipsum dolor.
-	                            </div>	
+	                            </div>
                         	</div>
 
-                            <div class="cart-total">
+              <div class="cart-total">
 								<div>
 									<h3>ราคาสินค้าทั้งหมด</h3>
 								</div>
-								
+
 								<hr>
 								<div class="row">
-                                    <div class="col-sm-6">
-                                        <p>สินค้าทั้งหมด</p>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <p id="qty_product">1 รายการ</p>
-                                    </div>
+                    <div class="col-sm-6">
+                        <p>สินค้าทั้งหมด</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p id="qty_product">1 รายการ</p>
+                    </div>
 
-                                    <div class="col-sm-6">
-                                        <p>รวมยอดส่งซื้อสินค้า</p>
-                                    </div>
-                                    <div class="col-sm-6">
-                                        <p id="sum_product" style="font-size: 25px;">450 บาท</p>
-                                    </div> 
-                                </div>
+                    <div class="col-sm-6">
+                        <p>รวมยอดส่งซื้อสินค้า</p>
+                    </div>
+                    <div class="col-sm-6">
+                        <p id="sum_product" style="font-size: 25px;">450 บาท</p>
+                    </div>
+                </div>
+
 							</div>
 						</div>
 
 <!-- 						<div class="col-sm-4">
 
 						</div> -->
-						
-						<div class="col-12 col-md-8">
+
+						<div class="col-12 col-md-12 col-10 mx-auto">
 						   	<div class="form-group pull-right mx-2">
-						   		<button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+						   		<a href="orders.php" class="btn mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
 		                         	<p class=" mb-0">
 		                           		ดำเนินการต่อ
 		                         	</p>
-	                     		</button>
+	                </a>
 						   	</div>
 						   	<div class="form-group pull-right mx-2">
-						   		<button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+						   		<a href="productcategories.php"  class="btn mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
 		                         	<p class=" mb-0">
 		                           		เลือกสินค้าต่อ
 		                         	</p>
-	                     		</button>
+	                </a>
 						   	</div>
 						</div>
 						<!-- <div class="col-sm-12"> -->
 
 						<!-- </div> -->
-					</div>	
+					</div>
 				</div>
 			</div>
 		</div>
@@ -152,5 +158,3 @@
 
   </body>
 </html>
-
-

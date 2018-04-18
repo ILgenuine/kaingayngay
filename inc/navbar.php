@@ -54,7 +54,7 @@
                 </li>
 
                 <li>
-                    <a class="nav-link" href="#"><i class="fa fa-shopping-cart fa-lg p-relative" aria-hidden="true"><span class="bugget">0</span></i></a>
+                    <a class="nav-link" href="cart.php"><i class="fa fa-shopping-cart fa-lg p-relative" aria-hidden="true" ><span class="bugget">0</span></i></a>
                 </li>
             </ul>
 

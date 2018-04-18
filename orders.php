@@ -15,15 +15,20 @@
 			       	 	<div class="thumbnail">
 			       	 		<div class="row">
 				       	 		<div class="col-sm-12">
-									<h3 class="text-pink">สรุปรายการสั่งซื้อ</h3>
-								</div>
+                      <div class="col-12 px-0 mx-auto ">
+                        <div class="mb-3 ml-lg-0 ml-md-0 ml-3">
+                          <a class="text-black" href="index.php">หน้าหลัก</a> > <label class="text-blue"> สรุปรายการสั่งซื้อ</label>
+                        </div>
+                      </div>
+    									<h3 class="text-pink">สรุปรายการสั่งซื้อ</h3>
+    								</div>
 								<div class="col-sm-12">
 									<div>
 										<p>หมายเลข Order: JJP0860511 (วันที่ 24-08-2017)</p>
 									</div>
 								</div>
 
-								<div class="col-12 col-md-4">
+								<div class="col-12 col-md-12 col-lg-4">
 									<div class="cart-total">
 										<div>
 											<h4>คุณ : สมปอง หาญเสมอ</h4>
@@ -46,7 +51,7 @@
 										</div>
 									</div>
 								</div>
-						<div class="col-12 col-lg-8 table-responsive">
+						<div class="col-12 col-md-12 col-lg-8 table-responsive">
 							<table class="table table-light table-bordered">
 								<thead>
 									<tr>
@@ -93,11 +98,11 @@
 										<td>199</td>
 									</tr>
 								</tbody>
-								
+
 							</table>
 						</div>
 
-								<div class="col-sm-4 ml-auto">
+								<div class="col-sm-4 col-md-12 col-lg-4 ml-auto">
 									<div class="cart-total">
 									<div class="row">
                                         <div class="col-sm-6">
@@ -117,11 +122,11 @@
                                         </div>
                                         <div class="col-sm-6">
                                             <p>480 บาท</p>
-                                        </div>                                          
+                                        </div>
                                 </div>
 									</div>
 								</div>
-								
+
 								<div class="col-sm-12">
 								   	<div class="form-group pull-right mx-2">
 								   		<button class="mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
@@ -134,7 +139,7 @@
 								<!-- <div class="col-sm-12"> -->
 
 								<!-- </div> -->
-							</div>	
+							</div>
 						</div>
 					</div>
 				</div>
@@ -148,5 +153,3 @@
 
   </body>
 </html>
-
-
