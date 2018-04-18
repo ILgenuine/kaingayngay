@@ -44,11 +44,11 @@
                 <div class="ml-md-2 mx-auto col-lg-5 col-md-5 col-8 px-0">
 
                    <select class="form-control" id="exampleSelect1">
-                     <option>1</option>
-                     <option>2</option>
-                     <option>3</option>
-                     <option>4</option>
-                     <option>5</option>
+                     <option>รถยนต์ทั่วไป</option>
+                     <option>ซากรถ, อะไหล่รถ</option>
+                     <option>อู่รถฝีมือดี</option>
+                     <option>สถานที่เที่ยว</option>
+                     <option>บ้าน, ที่ดิน</option>
                    </select>
 
                 </div>
@@ -89,11 +89,11 @@
                    <div class="ml-md-2 mx-auto col-lg-5 col-md-5 col-8 px-0">
 
                         <select class="form-control" id="exampleSelect1">
-                          <option>1</option>
-                          <option>2</option>
-                          <option>3</option>
-                          <option>4</option>
-                          <option>5</option>
+                          <option>รถยนต์ทั่วไป</option>
+                          <option>ซากรถ, อะไหล่รถ</option>
+                          <option>อู่รถฝีมือดี</option>
+                          <option>สถานที่เที่ยว</option>
+                          <option>บ้าน, ที่ดิน</option>
                         </select>
 
                    </div>

@@ -128,14 +128,14 @@
 
 						<div class="col-12 col-md-12 col-10 mx-auto">
 						   	<div class="form-group pull-right mx-2">
-						   		<a href="orders.php" class="btn mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+						   		<a href="orders.php" class=" mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
 		                         	<p class=" mb-0">
 		                           		ดำเนินการต่อ
 		                         	</p>
 	                </a>
 						   	</div>
 						   	<div class="form-group pull-right mx-2">
-						   		<a href="productcategories.php"  class="btn mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
+						   		<a href="productcategories.php"  class=" mx-auto mx-md-auto mx-lg-0 nav-link login-btn align-center">
 		                         	<p class=" mb-0">
 		                           		เลือกสินค้าต่อ
 		                         	</p>
